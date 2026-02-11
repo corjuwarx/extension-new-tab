@@ -1,5 +1,7 @@
 # New Tab Extension
 
+<img width="1874" height="928" alt="Ekran görüntüsü 2026-02-11 173927" src="https://github.com/user-attachments/assets/9e317437-2399-441e-8b93-10f817165efd" />
+
 A modern, fast, and customizable browser new tab extension.
 
 ## Features
