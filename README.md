@@ -16,5 +16,8 @@ A modern, fast, and customizable browser new tab extension.
 3. Enable "Developer Mode".
 4. Click "Load unpacked" and select this project folder.
 
+## How to apply
+https://youtu.be/30VQJvNRu5g?si=zcKYNngS0RlWkmxL
+
 ## License
 MIT
